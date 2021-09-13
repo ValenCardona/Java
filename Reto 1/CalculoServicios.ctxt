@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CalculoServicios
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CalculoServicios\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=estrato\ cantidad
+comment1.target=void\ valorAgua(int,\ int)
+comment2.params=estrato\ cantidad
+comment2.target=void\ valorLuz(int,\ int)
+comment3.params=estrato\ cantidad
+comment3.target=void\ valorGas(int,\ int)
+numComments=4

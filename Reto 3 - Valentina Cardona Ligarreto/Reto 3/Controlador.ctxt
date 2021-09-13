@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Controlador
+comment0.text=\r\n\ Clase\ controlador\ en\ la\ que\ se\ ejecuta\ el\ funcionamiento\ del\ programa\ para\ el\ reto\ 3,\ en\ esta\ clase\ se\ en\ cuentra\ \r\n\ el\ menu\ para\ acceder\ a\ cada\ una\ de\ las\ funciones\r\n
+comment1.params=
+comment1.target=Controlador()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Controlador\r\n
+comment2.params=
+comment2.target=void\ menu()
+comment2.text=\r\n\ Metodo\ menu,\ en\ la\ que\ se\ muestran\ las\ opciones\ a\ las\ que\ se\ pueden\ acceder\ y\ se\ direcciona\ a\ la\ opci\u00F3n\ seleccionada\r\n
+comment3.params=
+comment3.target=void\ ingresarEstudiante()
+comment3.text=\r\n\ Se\ hace\ el\ metodo\ ingresar\ estudiante,\ aqui\ se\ la\ pide\ al\ usuario\ que\ digite\ los\ datos\ de\ cada\ estudiante\r\n
+comment4.params=
+comment4.target=void\ buscarEstudiante()
+comment4.text=\r\n\ Se\ realiza\ la\ clase\ buscar\ estudiante,\ este\ metodo\ se\ hace\ filtrando\ el\ correo\ institucional,\ cuando\ se\ encuentra\ se\ muestra\ \r\n\ la\ informacion\ del\ estudiante\ buscado,\ en\ caso\ que\ no\ dice\ que\ el\ estudiante\ no\ se\ encuentra\ registrado\r\n
+comment5.params=
+comment5.target=void\ modificarEstudiante()
+comment5.text=\r\n\ Se\ realiza\ la\ clase\ modificar\ estudiante,\ este\ metodo\ se\ hace\ filtrando\ el\ correo\ institucional,\ cuando\ se\ encuentra\ se\ \r\n\ pide\ el\ correo\ personal,\ los\ numeros\ de\ celular\ y\ telefonico\ y\ el\ programa\ academico,\r\n\ en\ caso\ que\ no\ dice\ que\ el\ estudiante\ no\ se\ encuentra\ registrado\ \r\n
+comment6.params=
+comment6.target=void\ eliminarEstudiante()
+comment6.text=\r\n\ Se\ realiza\ la\ clase\ eliminar\ estudiante,\ este\ metodo\ se\ hace\ filtrando\ el\ correo\ institucional,\ cuando\ se\ encuentra\ se\r\n\ elimina\ al\ estudiente\r\n
+comment7.params=
+comment7.target=void\ mostrarEstudiante()
+comment7.text=\r\n\ Se\ realiza\ la\ clase\ mostrar\ estudiante,\ en\ donde\ se\ puede\ ver\ todo\ el\ directorio\ de\ los\ estudiante.\r\n
+numComments=8

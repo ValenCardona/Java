@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Vista
+comment1.params=
+comment1.target=Vista()
+comment2.params=mensaje
+comment2.target=java.lang.String\ leerDatoString(java.lang.String)
+comment3.params=mensaje
+comment3.target=long\ leerDatoLong(java.lang.String)
+comment4.params=mensaje
+comment4.target=double\ leerDatoDouble(java.lang.String)
+comment5.params=mensaje
+comment5.target=int\ leerDatoEntero(java.lang.String)
+comment6.params=mensaje
+comment6.target=void\ mostrarInformacion(java.lang.String)
+numComments=7

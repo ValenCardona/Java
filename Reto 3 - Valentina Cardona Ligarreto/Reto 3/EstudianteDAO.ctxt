@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=EstudianteDAO
+comment1.params=arch
+comment1.target=EstudianteDAO(Archivo)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ EstudianteDAO\r\n
+comment2.params=file
+comment2.target=java.lang.String\ verEstudiante(java.io.File)
+comment3.params=correoInstitucional\ estudiantes
+comment3.target=Estudiante\ buscarEstudiante(java.lang.String,\ java.util.ArrayList)
+comment4.params=nombre\ apellido\ fechaNacimiento\ correoInstitucional\ correoPersonal\ numeroCelular\ numeroTelefonico\ programa\ estudiantes\ file
+comment4.target=boolean\ agregarEstudiante(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ long,\ long,\ java.lang.String,\ java.util.ArrayList,\ java.io.File)
+comment5.params=correoInstitucional\ estudiantes\ file
+comment5.target=boolean\ eliminarEstudiante(java.lang.String,\ java.util.ArrayList,\ java.io.File)
+numComments=6

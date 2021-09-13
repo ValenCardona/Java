@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=devengado
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ devengado\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ ingresarDatos()
+comment2.params=totalSalario
+comment2.target=long\ calcularTotalConDevengado(long)
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment3.params=
+comment3.target=long\ calcularVHD()
+comment4.params=
+comment4.target=long\ calcularVHN()
+comment5.params=
+comment5.target=long\ calcularVHDom()
+comment6.params=calcularVHD\ calcularVHN\ calcularVHDom
+comment6.target=long\ calcularHorasExtras(long,\ long,\ long)
+numComments=7

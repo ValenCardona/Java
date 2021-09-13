@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=deducido
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ deducido\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ ingresarDatos()
+comment2.params=totalConDevengado
+comment2.target=long\ calcularTotalDeducido(long)
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment3.params=totalConDevengado
+comment3.target=long\ calcularSalud(long)
+comment4.params=totalConDevengado
+comment4.target=long\ calcularPension(long)
+comment5.params=totalConDevengado
+comment5.target=long\ calcularSindicato(long)
+numComments=6

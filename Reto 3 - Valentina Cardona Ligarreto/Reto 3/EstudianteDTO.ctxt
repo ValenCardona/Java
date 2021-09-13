@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=EstudianteDTO
+comment1.params=
+comment1.target=EstudianteDTO()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ EstudianteDTO\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getEstudiante()
+comment3.params=estudiante
+comment3.target=void\ setEstudiante(java.util.ArrayList)
+comment4.params=
+comment4.target=EstudianteDAO\ getEstudianteDAO()
+comment5.params=estudianteDAO
+comment5.target=void\ setEstudianteDAO(EstudianteDAO)
+comment6.params=
+comment6.target=java.io.File\ getFile()
+comment7.params=file
+comment7.target=void\ setFile(java.io.File)
+comment8.params=
+comment8.target=Archivo\ getArchivo()
+comment9.params=archivo
+comment9.target=void\ setArchivo(Archivo)
+numComments=10

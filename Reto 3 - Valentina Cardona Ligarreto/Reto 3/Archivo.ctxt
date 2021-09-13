@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Archivo
+comment1.params=archivo
+comment1.target=Archivo(java.io.File)
+comment2.params=estudiante\ archivo
+comment2.target=void\ escribirEnArchivo(java.util.ArrayList,\ java.io.File)
+comment3.params=archivo
+comment3.target=java.util.ArrayList\ leerArchivo(java.io.File)
+comment4.params=
+comment4.target=java.io.ObjectInputStream\ getEntrada()
+comment5.params=entrada
+comment5.target=void\ setEntrada(java.io.ObjectInputStream)
+comment6.params=
+comment6.target=java.io.ObjectOutputStream\ getSalida()
+comment7.params=salida
+comment7.target=void\ setSalida(java.io.ObjectOutputStream)
+numComments=8
